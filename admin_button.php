@@ -1,0 +1,1 @@
+<a href="/php_edit/admin/login.php" style="background: #8B6A5B; color: white; padding: 8px 16px; border-radius: 25px; text-decoration: none; font-size: 14px; font-weight: bold; margin-left: 15px;">👑 Admin</a>

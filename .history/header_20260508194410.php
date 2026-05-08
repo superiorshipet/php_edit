@@ -37,7 +37,7 @@ $is_logged_in = isset($_SESSION['user_id']);
             <?php endif; ?>
             
             <!-- Admin Button -->
-            <a class="admin-link" href="admin/login.php" style="margin-left: 15px; background: #8B6A5B; color: white; padding: 8px 15px; border-radius: 25px; text-decoration: none; font-size: 14px; font-weight: bold;">  Admin</a>
+            <a class="admin-link" href="admin/login.php" style="margin-left: 15px; background: #8B6A5B; color: white; padding: 8px 15px; border-radius: 25px; text-decoration: none; font-size: 14px; font-weight: bold;">👑 Admin</a>
         </div>
     </div>
 </header>

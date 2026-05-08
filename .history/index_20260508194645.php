@@ -71,7 +71,7 @@ $bedroom_result = mysqli_query($conn, $bedroom_query);
 <?php endif; 
    
     ?>
-    <a href="admin/login.php" style="background:#8B6A5B; color:white; padding:8px 16px; border-radius:25px; text-decoration:none; font-size:14px; font-weight:bold; margin-left:15px;">  Admin</a>
+    <a href="admin/login.php" style="background:#8B6A5B; color:white; padding:8px 16px; border-radius:25px; text-decoration:none; font-size:14px; font-weight:bold; margin-left:15px;">👑 Admin</a>
 </div>
 </div>
 
